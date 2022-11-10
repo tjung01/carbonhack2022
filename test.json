@@ -1,0 +1,38 @@
+[
+    {
+        "point_time": "2019-02-21T00:15:00.000Z",
+        "value": 1062.0,
+        "frequency": null,
+        "market": "RTM",
+        "ba": "CAISO_NORTH",
+        "datatype": "MOER",
+        "version": "3.0"
+    },
+    {
+        "point_time": "2019-02-21T00:10:00.000Z",
+        "value": 1050.0,
+        "frequency": null,
+        "market": "RTM",
+        "ba": "CAISO_NORTH",
+        "datatype": "MOER",
+        "version": "3.0"
+    },
+    {
+        "point_time": "2019-02-21T00:05:00.000Z",
+        "value": 1019.0,
+        "frequency": null,
+        "market": "RTM",
+        "ba": "CAISO_NORTH",
+        "datatype": "MOER",
+        "version": "3.0"
+    },
+    {
+        "point_time": "2019-02-21T00:00:00.000Z",
+        "value": 927.0,
+        "frequency": null,
+        "market": "RTM",
+        "ba": "CAISO_NORTH",
+        "datatype": "MOER",
+        "version": "3.0"
+    }
+]
